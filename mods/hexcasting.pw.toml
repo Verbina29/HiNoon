@@ -1,14 +1,14 @@
 name = "Hex Casting"
-filename = "hexcasting-fabric-1.19.2-0.10.3.jar"
+filename = "hexcasting-forge-1.19.2-0.10.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "19702b82d52069b41f702317ba877818e1346716"
+hash = "df648ed65625d636bd5306a7c8fe2d762e9b9f71"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4132955
+file-id = 4103853
 project-id = 569849
 release-channel = "beta"

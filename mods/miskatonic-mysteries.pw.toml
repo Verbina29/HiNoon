@@ -1,13 +1,13 @@
 name = "Miskatonic Mysteries"
-filename = "miskatonicmysteries-0.1.6.jar"
+filename = "miskatonicmysteries-0.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "410903ccf5f6807b6bc5272349e5460b3f124088"
+hash = "90dc0b06e41a93443a67efc370c096c91c73f202"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4192800
+file-id = 4525469
 project-id = 473458

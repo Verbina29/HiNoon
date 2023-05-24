@@ -1,14 +1,14 @@
 name = "MoreIotas"
-filename = "moreiotas-fabric-1.19.2-0.0.3.jar"
+filename = "moreiotas-fabric-1.19.2-0.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a0dbe6143963db3a9356ca4344517aa13831c80b"
+hash = "bb802296583cf8aaa5488de6aa7c393cd7ab455f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4388737
+file-id = 4509050
 project-id = 824728
 release-channel = "beta"
