@@ -716,6 +716,11 @@ hash = "e6d051df0809326863d564e3fde5b776610bf7b3f35fd8c6373eb766b41010f6"
 metafile = true
 
 [[files]]
+file = "mods/mc-237017-fix.pw.toml"
+hash = "9b286a53c77fc7068450a3e364bab3c7c9bfaaed1f540c26b61719920af6dae8"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "86831c7192dbe4a106e1aa54ae25f33eeda42da960aff2123bf70d3b2f3afba0"
 metafile = true
