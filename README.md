@@ -1,2 +1,2 @@
 # HiNoon
- 
+ HiNoon is a lot of things. It is a Quilt 1.19.2 modpack based around cave survival, magic, being a vampire, and doDaylightCycle false. It is currently planned to have quests. It is currently a personal project, but may become an AIGO pack in the future.
