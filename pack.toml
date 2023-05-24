@@ -1,0 +1,13 @@
+name = "High Noon"
+author = "Verbina29"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8348abdb32c3e6b9274f28751d4c5a5c4052e505de49ea72dc99fcce7f112ba2"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.10"

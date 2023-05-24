@@ -1,0 +1,17 @@
+name = "Restart Server (Fabric/Quilt)"
+filename = "restart-server-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90ae9f8cc98b55466e54ef68bc72cf2b927b67ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3995169
+project-id = 677580
+release-channel = "beta"
+
+[option]
+optional = true

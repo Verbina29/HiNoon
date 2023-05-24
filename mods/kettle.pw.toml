@@ -1,0 +1,14 @@
+name = "Kettle"
+filename = "kettle-2.2.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b03741f2011884228370dcb0c4cfa8fd82423396"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942226
+project-id = 316905
+release-channel = "beta"

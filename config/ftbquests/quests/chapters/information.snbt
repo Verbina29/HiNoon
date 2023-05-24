@@ -1,0 +1,199 @@
+{
+	id: "7BEBE2891EE26682"
+	group: ""
+	order_index: 0
+	filename: "information"
+	title: "Welcome to High Noon!"
+	subtitle: ["This chapter is non-canon, and only contains quests for reobtaining vital items and information about the pack."]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Gameplay FAQ"
+			x: -0.5d
+			y: -0.75d
+			description: [
+				"Q: Why does everything look weird?"
+				"A: Haema applies a shader to your screen that desaturates things and makes everything a bit brighter. I like it, so I keep it enabled by default. It can be disabled in Haema's client settings."
+				""
+				"Q: Why does my Akashic Tome say !!BRICKED!! on it?"
+				"A: I have no idea. It still works fine, and it corrects itself after changing it into another book and back."
+				""
+				"Q: Why don't I start with a sword?"
+				"A: I think it detracts from the early game experience."
+				""
+				"Q: Why don't I start with a hoe?"
+				"A: You're a fucking vampire. Why would you need to farm?"
+			]
+			id: "377A0D5601EDEE72"
+			tasks: [{
+				id: "4826326C474572CB"
+				type: "checkmark"
+				title: "FAQ"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.75d
+			description: ["Or maybe you just like clicking checkboxes and getting free items."]
+			id: "079D6663C4A1C04C"
+			tasks: [{
+				id: "5629C9C815306AA2"
+				type: "checkmark"
+				title: "Lost your starter tools?"
+			}]
+			rewards: [
+				{
+					id: "55EAD0893110DD8B"
+					type: "item"
+					item: {
+						id: "minecraft:iron_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7A5A37F345C06054"
+					type: "item"
+					item: {
+						id: "minecraft:iron_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0D2810CAA4B19A91"
+					type: "item"
+					item: {
+						id: "minecraft:iron_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: 0.75d
+			description: ["It would suck to lose all your guide books, so this one is repeatable."]
+			can_repeat: true
+			id: "18A1249B81D2F07F"
+			tasks: [{
+				id: "4BC27864726442BB"
+				type: "checkmark"
+				title: "Lost your Akashic Tome?"
+			}]
+			rewards: [{
+				id: "5E348E771E964D77"
+				type: "item"
+				item: {
+					id: "akashictomeoftools:akashic_tome"
+					Count: 1b
+					tag: {
+						AkashicItems: [
+							{
+								id: "haema:book_of_blood"
+								Count: 1b
+							}
+							{
+								id: "bewitchment:book_of_shadows"
+								Count: 1b
+							}
+							{
+								id: "malum:encyclopedia_arcana"
+								Count: 1b
+							}
+							{
+								id: "ftbquests:book"
+								Count: 1b
+							}
+							{
+								id: "patchouli:guide_book"
+								Count: 1b
+								tag: {
+									"patchouli:book": "hexcasting:thehexbook"
+								}
+							}
+							{
+								id: "botania:lexicon"
+								Count: 1b
+							}
+							{
+								id: "miskatonicmysteries:science_journal"
+								Count: 1b
+							}
+							{
+								id: "miskatonicmysteries:necronomicon"
+								Count: 1b
+							}
+						]
+						SelectedPos: -1
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -0.75d
+			description: [
+				"Q: Is the loading screen canon?"
+				"A: No, it's a quirk of the way I'm spawning players underground. I couldn't find a mod to do that, so I had to use KubeJS. It can take a while to find a valid spawnpoint, so I added the loading screen."
+				""
+				"Q: What quest book chapters are canon?"
+				"A: Every chapter except this \"Welcome to High Noon!\" chapter is canon."
+				""
+				"Q: What parts of the quests are canon?"
+				"A: Only the body text. The title and subtitle are more for gameplay purposes."
+				""
+				"Q: Are my actions canon?"
+				"A: They aren't canon to High Noon as a whole, but they are canon to your playthrough."
+			]
+			id: "2A9E3ECBB5EC9B8C"
+			tasks: [{
+				id: "1388793945915A26"
+				type: "checkmark"
+				title: "Lore FAQ"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			description: [
+				"- Enemies are much more difficult, and can mine blocks. See the Nox mod's page for specific changes."
+				"- Combat is different. Weapons are able to be dual wielded, have physical hitboxes, and holding down the attack button attacks automatically whenever the cooldown ends. See the Better Combat mod's page for more details."
+				"- It is always noon."
+				"- Spawnpoints are randomized per player, and are always underground at around Y = -30."
+				"- This one is obvious, but you're a vampire."
+			]
+			id: "725833E27E175A39"
+			tasks: [{
+				id: "335A7A4153AE7262"
+				type: "checkmark"
+				title: "Major Changes"
+			}]
+		}
+		{
+			x: 0.875d
+			y: 0.0d
+			description: [
+				"- Lava can be used to your advantage. It kills enemies, but can't kill you."
+				""
+				"- Your dash is quite versatile!"
+				"- Crouching when dashing will prevent you from taking damage if you dash into a ceiling."
+			]
+			id: "361E648C0664B9CC"
+			tasks: [{
+				id: "23B060A12D13EA51"
+				type: "checkmark"
+				title: "Tips for the Earlygame"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

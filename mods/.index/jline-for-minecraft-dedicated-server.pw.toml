@@ -1,0 +1,14 @@
+name = "JLine for Dedicated Server"
+filename = "jline4mcdsrv-0.4.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "65b915088578c116559f458b1e5136cb15c94ba7"
+
+[update]
+[update.curseforge]
+file-id = 4354108
+project-id = 392559

@@ -1,0 +1,14 @@
+name = "LootJS: KubeJS Addon"
+filename = "lootjs-fabric-1.19.2-2.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "161c61b8ae3e6fea79eb348607f638821a345aa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4487196
+project-id = 570630
+release-channel = "beta"

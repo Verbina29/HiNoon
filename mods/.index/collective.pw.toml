@@ -1,0 +1,14 @@
+name = "Collective"
+filename = "collective-1.19.2-6.53.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/ODKDGTON/collective-1.19.2-6.53.jar"
+hash-format = "sha512"
+hash = "0e4e4d9de2da5dad779ee24d249440d4928086b27fc2597ca4737927abf4706cd4f866bb8d0b7736b80b653744afc6f0b4ce449876222982e485b8ad91b3c74b"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "ODKDGTON"

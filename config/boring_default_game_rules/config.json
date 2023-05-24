@@ -1,0 +1,9 @@
+{
+	"$schema": "file:///C:/Users/Verbi/AppData/Roaming/PrismLauncher/instances/LUttN/minecraft/config/boring_default_game_rules/config.schema.json",
+	"default_game_rules": {
+		"doDaylightCycle": false,
+		"doInsomnia": false,
+		"playerVampireConversion": false
+	},
+	"generate_json_schema": true
+}

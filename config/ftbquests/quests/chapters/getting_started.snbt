@@ -1,0 +1,172 @@
+{
+	id: "14D2218F96355862"
+	group: ""
+	order_index: 1
+	filename: "getting_started"
+	title: "Getting Started"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Getting Wood"
+			x: 0.0d
+			y: 0.0d
+			subtitle: "It may be a bit of a challenge."
+			description: ["The easiest way would be to find a mineshaft. Getting to the surface to find a tree is its own challenge, even ignoring collecting the wood safely."]
+			id: "166C4984BB51A9C1"
+			tasks: [
+				{
+					id: "3DE5F04C10740608"
+					type: "item"
+					title: "Any #minecraft:planks"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:planks"
+						}
+					}
+					count: 16L
+				}
+				{
+					id: "4B41907BB43125CC"
+					type: "item"
+					item: "minecraft:crafting_table"
+				}
+			]
+		}
+		{
+			title: "Renewable Wood"
+			x: 0.5d
+			y: 0.75d
+			subtitle: "Getting saplings from the surface will be an ordeal, but it should be worth it."
+			dependencies: ["166C4984BB51A9C1"]
+			id: "5BDCECA1CF4634EF"
+			tasks: [
+				{
+					id: "6FF50522C36E8DF0"
+					type: "item"
+					title: "Any #minecraft:saplings"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:saplings"
+						}
+					}
+					count: 8L
+				}
+				{
+					id: "5726BAE32C830E64"
+					type: "item"
+					item: "minecraft:dirt"
+					count: 4L
+				}
+			]
+			rewards: [{
+				id: "669AE08E1CADBD80"
+				type: "item"
+				item: "minecraft:bone_meal"
+				count: 24
+				random_bonus: 40
+			}]
+		}
+		{
+			title: "Better Tools"
+			x: 1.0d
+			y: 0.0d
+			subtitle: "Diamonds should be easy to find around here."
+			dependencies: ["166C4984BB51A9C1"]
+			id: "30D1FAF5B504B43B"
+			tasks: [
+				{
+					id: "7AC7262DA17268E1"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "70E72B78B34748D3"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1FA828069E3E388A"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4013A30478E8B293"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "503A1C5B17C37CE1"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 8
+				random_bonus: 7
+			}]
+		}
+		{
+			title: "Getting Started: The Tech Side of Things"
+			x: 1.875d
+			y: 0.0d
+			id: "58451F56B8C8D24D"
+			tasks: [{
+				id: "593E0712AD5ACC2A"
+				type: "item"
+				item: "create:andesite_alloy"
+				count: 16L
+			}]
+		}
+		{
+			title: "Getting Started: Amethyst Magicks"
+			x: 1.875d
+			y: -0.875d
+			id: "7A237A51271D9404"
+			tasks: [{
+				id: "7FE3E16F2BEC1C18"
+				type: "item"
+				item: "minecraft:amethyst_shard"
+				count: 16L
+			}]
+		}
+		{
+			title: "Getting Started: The Void"
+			x: 1.875d
+			y: 0.875d
+			id: "77C4325410635B36"
+			tasks: [{
+				id: "151FE8B8AEE5EB12"
+				type: "item"
+				item: "yttr:yttrium_ingot"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

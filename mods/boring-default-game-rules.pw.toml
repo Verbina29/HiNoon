@@ -1,0 +1,14 @@
+name = "Boring Default Game Rules"
+filename = "boring_default_game_rules-1.0.4+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc6e3f71697862bd49ffd90a1661cca86213a7b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4455464
+project-id = 525605
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Nox"
+filename = "nox-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JvPAcikc/versions/79OdU6ml/nox-2.0.0.jar"
+hash-format = "sha512"
+hash = "92bf14b8ede8738ee4fa02fad50a0d2a4e82cf43dae6c04e8fde3bb15dcbe282f3e0db917dfb6ba2d9d47a09c9ee0d3f167c406649e50dc43fa52654b172b230"
+
+[update]
+[update.modrinth]
+mod-id = "JvPAcikc"
+version = "79OdU6ml"

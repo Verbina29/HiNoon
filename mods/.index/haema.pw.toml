@@ -1,0 +1,14 @@
+name = "Haema"
+filename = "haema-1.10.4+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/x1oI70UX/versions/vxCiIvPx/haema-1.10.4%2B1.19.jar"
+hash-format = "sha512"
+hash = "bdf1558b5e5823f10680296a4a4c35b44ada21e2d38bee3de3eb3bd9142ea22a66cdbe79ce8e7b8d3ff5206c18a5dee249c93e90a9a626832b067ea4b0dc62d6"
+
+[update]
+[update.modrinth]
+mod-id = "x1oI70UX"
+version = "vxCiIvPx"

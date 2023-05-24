@@ -1,0 +1,30 @@
+event.player.paint({
+	background_rect: {
+		type: 'rectangle',
+		x: 0,
+		y: 0,
+		w: '($screenW)',
+		h: '($screenH)',
+		color: '#1c1c1e',
+		draw: 'ingame'
+	},
+	text: {
+		type: 'text',
+		text:'Please wait while we find a suitable spawn point.',
+		scale: 1.0,
+		x: 0,
+		y: 0,
+		alignX: 'center',
+		alignY: 'center',
+		draw: 'ingame'
+	}
+})
+event.player.paint({
+	text: {
+		text:'Spawnpoint found!'
+	}
+})
+event.player.paint({
+	background_rect: {remove: true},
+	text: {remove: true}
+})

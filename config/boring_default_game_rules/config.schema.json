@@ -1,0 +1,320 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Boring Default Game Rules Configuration File",
+  "gameRulesHash": "5706817b2fa268f6fbb421afc4b08065d8efa1c37b94a743298d5fac382ff708",
+  "description": "The config file for the \"Boring Default Game Rules\" mod.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "title": "$schema",
+      "description": "The standard method of assigning a JSON schema to a JSON file. If the value is set as \"GENERATE_ME\", Boring Default Game Rules will regenerate the path to the schema."
+    },
+    "default_game_rules": {
+      "type": "object",
+      "title": "Default Game Rules",
+      "description": "Defines the default game rules, whose values will override the original default values. This mod provides game rule suggestions by generating a JSON schema.",
+      "properties": {
+        "announceAdvancements": {
+          "type": "boolean",
+          "title": "announceAdvancements",
+          "description": "Announce advancements",
+          "default": true
+        },
+        "commandBlockOutput": {
+          "type": "boolean",
+          "title": "commandBlockOutput",
+          "description": "Broadcast command block output",
+          "default": true
+        },
+        "dashCooldown": {
+          "type": "integer",
+          "title": "dashCooldown",
+          "description": "gamerule.dashCooldown",
+          "default": 10,
+          "minimum": 0,
+          "maximum": 24000
+        },
+        "disableElytraMovementCheck": {
+          "type": "boolean",
+          "title": "disableElytraMovementCheck",
+          "description": "Disable elytra movement check",
+          "default": false
+        },
+        "disableRaids": {
+          "type": "boolean",
+          "title": "disableRaids",
+          "description": "Disable raids",
+          "default": false
+        },
+        "doDaylightCycle": {
+          "type": "boolean",
+          "title": "doDaylightCycle",
+          "description": "Advance time of day",
+          "default": true
+        },
+        "doEntityDrops": {
+          "type": "boolean",
+          "title": "doEntityDrops",
+          "description": "Drop entity equipment",
+          "default": true
+        },
+        "doFireTick": {
+          "type": "boolean",
+          "title": "doFireTick",
+          "description": "Update fire",
+          "default": true
+        },
+        "doImmediateRespawn": {
+          "type": "boolean",
+          "title": "doImmediateRespawn",
+          "description": "Respawn immediately",
+          "default": false
+        },
+        "doInsomnia": {
+          "type": "boolean",
+          "title": "doInsomnia",
+          "description": "Spawn phantoms",
+          "default": true
+        },
+        "doLimitedCrafting": {
+          "type": "boolean",
+          "title": "doLimitedCrafting",
+          "description": "Require recipe for crafting",
+          "default": false
+        },
+        "doMobLoot": {
+          "type": "boolean",
+          "title": "doMobLoot",
+          "description": "Drop mob loot",
+          "default": true
+        },
+        "doMobSpawning": {
+          "type": "boolean",
+          "title": "doMobSpawning",
+          "description": "Spawn mobs",
+          "default": true
+        },
+        "doPatrolSpawning": {
+          "type": "boolean",
+          "title": "doPatrolSpawning",
+          "description": "Spawn pillager patrols",
+          "default": true
+        },
+        "doTileDrops": {
+          "type": "boolean",
+          "title": "doTileDrops",
+          "description": "Drop blocks",
+          "default": true
+        },
+        "doTraderSpawning": {
+          "type": "boolean",
+          "title": "doTraderSpawning",
+          "description": "Spawn Wandering Traders",
+          "default": true
+        },
+        "doWardenSpawning": {
+          "type": "boolean",
+          "title": "doWardenSpawning",
+          "description": "Spawn Wardens",
+          "default": true
+        },
+        "doWeatherCycle": {
+          "type": "boolean",
+          "title": "doWeatherCycle",
+          "description": "Update weather",
+          "default": true
+        },
+        "drowningDamage": {
+          "type": "boolean",
+          "title": "drowningDamage",
+          "description": "Deal drowning damage",
+          "default": true
+        },
+        "fallDamage": {
+          "type": "boolean",
+          "title": "fallDamage",
+          "description": "Deal fall damage",
+          "default": true
+        },
+        "feedCooldown": {
+          "type": "integer",
+          "title": "feedCooldown",
+          "description": "gamerule.feedCooldown",
+          "default": 10,
+          "minimum": 0,
+          "maximum": 24000
+        },
+        "fireDamage": {
+          "type": "boolean",
+          "title": "fireDamage",
+          "description": "Deal fire damage",
+          "default": true
+        },
+        "forgiveDeadPlayers": {
+          "type": "boolean",
+          "title": "forgiveDeadPlayers",
+          "description": "Forgive dead players",
+          "default": true
+        },
+        "freezeDamage": {
+          "type": "boolean",
+          "title": "freezeDamage",
+          "description": "Deal freeze damage",
+          "default": true
+        },
+        "impersonate:fakeCapes": {
+          "type": "boolean",
+          "title": "impersonate:fakeCapes",
+          "description": "gamerule.impersonate:fakeCapes",
+          "default": false
+        },
+        "impersonate:logRevealImpersonations": {
+          "type": "boolean",
+          "title": "impersonate:logRevealImpersonations",
+          "description": "gamerule.impersonate:logRevealImpersonations",
+          "default": true
+        },
+        "impersonate:opRevealImpersonations": {
+          "type": "boolean",
+          "title": "impersonate:opRevealImpersonations",
+          "description": "gamerule.impersonate:opRevealImpersonations",
+          "default": true
+        },
+        "keepInventory": {
+          "type": "boolean",
+          "title": "keepInventory",
+          "description": "Keep inventory after death",
+          "default": false
+        },
+        "logAdminCommands": {
+          "type": "boolean",
+          "title": "logAdminCommands",
+          "description": "Broadcast admin commands",
+          "default": true
+        },
+        "maxCommandChainLength": {
+          "type": "integer",
+          "title": "maxCommandChainLength",
+          "description": "Command chain size limit",
+          "default": 65536
+        },
+        "maxEntityCramming": {
+          "type": "integer",
+          "title": "maxEntityCramming",
+          "description": "Entity cramming threshold",
+          "default": 24
+        },
+        "mobGriefing": {
+          "type": "boolean",
+          "title": "mobGriefing",
+          "description": "Allow destructive mob actions",
+          "default": true
+        },
+        "naturalRegeneration": {
+          "type": "boolean",
+          "title": "naturalRegeneration",
+          "description": "Regenerate health",
+          "default": true
+        },
+        "playerVampireConversion": {
+          "type": "boolean",
+          "title": "playerVampireConversion",
+          "description": "gamerule.playerVampireConversion",
+          "default": true
+        },
+        "playersSleepingPercentage": {
+          "type": "integer",
+          "title": "playersSleepingPercentage",
+          "description": "Sleep percentage",
+          "default": 100
+        },
+        "randomTickSpeed": {
+          "type": "integer",
+          "title": "randomTickSpeed",
+          "description": "Random tick speed rate",
+          "default": 3
+        },
+        "reducedDebugInfo": {
+          "type": "boolean",
+          "title": "reducedDebugInfo",
+          "description": "Reduce debug info",
+          "default": false
+        },
+        "sendCommandFeedback": {
+          "type": "boolean",
+          "title": "sendCommandFeedback",
+          "description": "Send command feedback",
+          "default": true
+        },
+        "showDeathMessages": {
+          "type": "boolean",
+          "title": "showDeathMessages",
+          "description": "Show death messages",
+          "default": true
+        },
+        "spawnRadius": {
+          "type": "integer",
+          "title": "spawnRadius",
+          "description": "Respawn location radius",
+          "default": 10
+        },
+        "spectatorsGenerateChunks": {
+          "type": "boolean",
+          "title": "spectatorsGenerateChunks",
+          "description": "Allow spectators to generate terrain",
+          "default": true
+        },
+        "sunlightDamagesArmour": {
+          "type": "boolean",
+          "title": "sunlightDamagesArmour",
+          "description": "gamerule.sunlightDamagesArmour",
+          "default": true
+        },
+        "universalAnger": {
+          "type": "boolean",
+          "title": "universalAnger",
+          "description": "Universal anger",
+          "default": false
+        },
+        "vampireHunterNoticeChance": {
+          "type": "number",
+          "title": "vampireHunterNoticeChance",
+          "description": "gamerule.vampireHunterNoticeChance",
+          "default": 0.1,
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "vampireInvisibilityLength": {
+          "type": "integer",
+          "title": "vampireInvisibilityLength",
+          "description": "gamerule.vampireInvisibilityLength",
+          "default": 80,
+          "minimum": 0,
+          "maximum": 24000
+        },
+        "vampiresBurn": {
+          "type": "boolean",
+          "title": "vampiresBurn",
+          "description": "gamerule.vampiresBurn",
+          "default": true
+        },
+        "vampiresDrown": {
+          "type": "boolean",
+          "title": "vampiresDrown",
+          "description": "gamerule.vampiresDrown",
+          "default": true
+        }
+      }
+    },
+    "generate_json_schema": {
+      "type": "boolean",
+      "title": "Generate JSON Schema",
+      "description": "If enabled, this mod will generate a JSON schema in order to aid with configuration. You may disable this if you don\u0027t plan to change the settings and want to save space, and once disabled, you can safely remove both the schema and the \"$schema\" property."
+    }
+  },
+  "required": [
+    "default_game_rules",
+    "generate_json_schema"
+  ]
+}

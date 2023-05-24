@@ -1,0 +1,14 @@
+name = "Yttr"
+filename = "yttr-7.638+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/ic0rXb1F/yttr-7.638%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "2c8d7a614f01212b2e2ad8d024cb4020306c308171b267eb502a6c7f7f22d0b1faa5fab3363fd440fcf6fecd2e7647ce40e228ee3e41aa44f2ea6d9ac00b43cc"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLrWdGm"
+version = "ic0rXb1F"

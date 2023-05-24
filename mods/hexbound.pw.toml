@@ -1,0 +1,14 @@
+name = "Hexbound"
+filename = "hexbound-0.1.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd9672eb081982a0cdea98cda6f5e79524a273b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488045
+project-id = 739791
+release-channel = "beta"

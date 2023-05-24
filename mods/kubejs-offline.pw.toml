@@ -1,0 +1,14 @@
+name = "KubeJS Offline Documentation"
+filename = "kubejsoffline-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9597761d414b63363abf5a7bd22c0961767b718f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4497027
+project-id = 641627
+release-channel = "beta"
