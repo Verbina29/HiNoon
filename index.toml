@@ -615,6 +615,11 @@ hash = "3227281cf704b6d3dc15c636e5a77d0e480a674d2abdca7b4902dafe6366917e"
 metafile = true
 
 [[files]]
+file = "mods/galosphere.pw.toml"
+hash = "e01465d529f5f8f94f641930ab7e872308eab9d554037f6eb43eaf212cf66c7b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3e280da5297631391b86927fa043903eba479c42bae37a82f11878b5eddd927f"
 metafile = true
@@ -822,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/preciseblockplacing.pw.toml"
 hash = "c1e02271a8564345b23e52c7beaebdf61a705f2e03ed6008114846d907d43afb"
+metafile = true
+
+[[files]]
+file = "mods/profundis.pw.toml"
+hash = "b28f7e901cf48c3487224034793889cebfd277b817ee2f301a030912347fa6d2"
 metafile = true
 
 [[files]]
