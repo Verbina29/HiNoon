@@ -81,6 +81,10 @@ file = "config/openloader/resources/HiNT_YttricRevolvers/pack.mcmeta"
 hash = "c43a3c103939f650c92be3f3f7a51f91bac237367a1dac04cc2cbca161cce4d5"
 
 [[files]]
+file = "config/openloader/resources/HiNT_YttricRevolvers/pack.png"
+hash = "eac1e1ad4d57255bbfe24aa182c1a55c3fe58fe8e7f4eecaf13eb781a8c218f5"
+
+[[files]]
 file = "kubejs/assets/kubejs/ponder/glowdamp_active.nbt"
 hash = "af138a4481e371cd34073340e665b5d866d9825e273d7efa9d68eae92aa6daec"
 
@@ -516,6 +520,11 @@ hash = "5d9d6aabdf4483f893d581c4a1ece858d8a428aabf70970eff08fef4649d5140"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "25784745306f13480d5072d167e672c0bae9bf9985b7497a58b887251e7dd447"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "156077c88a7be317fc669122363a327f3db3194f1a31ff6707f84eee203c6530"
 metafile = true
@@ -538,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "d968fc2a076963113d59c01e11640ce370bc9510d1d5f901da2c230e56ebe0f6"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "6bc69f58076651ee7496db935ed20dbb0fa7215c7c6d483b5ce29ff2d6f714fb"
 metafile = true
 
 [[files]]
