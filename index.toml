@@ -645,6 +645,11 @@ hash = "54f50aa59e9118af2ea19bd461aa546bdfc5ef85d9fbae718cc8c05bc6bfcd45"
 metafile = true
 
 [[files]]
+file = "mods/hexkinetics.pw.toml"
+hash = "8dd9851189bb60c5837689fb4edaba2e5843eb637d6a66023a2e105958090923"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "ab4420ae01265c55e4d124c118c9efe1f7393353c74b51eb7ffc473c7452278c"
 metafile = true
