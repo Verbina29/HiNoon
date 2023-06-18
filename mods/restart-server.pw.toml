@@ -1,15 +1,15 @@
 name = "Restart Server (Fabric/Quilt)"
-filename = "restart-server-1.1.0+mc1.19.x.jar"
+filename = "restart-server-1.1.1+mc1.19.x-1.20.x.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a34c1a3d706c9c0679b49717695f6dc646120d6"
+hash = "25485353493f10ac86ec6edb285e83fdbe9137bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4502743
+file-id = 4591923
 project-id = 677580
 release-channel = "beta"
 
