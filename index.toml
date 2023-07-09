@@ -14,7 +14,7 @@ hash = "64c645d64d8eb8e17dd98110c0fe48ace7f2a0c00c8eaedeafc17b74e2cabc66"
 
 [[files]]
 file = "config/charm.toml"
-hash = "da8d22cf7ad18801d4f85b2b460769cc18d320f8afec3472f1f03bfce6e91269"
+hash = "2cfd09f3464bc14cd47fe754c8cc565452188f577ee852c2d5255feadd1f0ddb"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -50,7 +50,7 @@ hash = "5a1485e84641b5a92399a16ee9da9ce835573961d3176d514fe77d76479362fc"
 
 [[files]]
 file = "config/openloader/data/HiNT/pack.mcmeta"
-hash = "67d84678bd6ce6a9f14910658a1603991357191695ef6730594dca46d21ffed2"
+hash = "6e2e7519ce072588a231688337cd8ffcf84808e3cb08f6562354eab4dd14cac1"
 
 [[files]]
 file = "config/openloader/data/HiNT/pack.png"
@@ -58,7 +58,7 @@ hash = "d66e4fcc8b3c67fdc135ec7d421eee64e61bc55d18930c23c09fa962e617d05c"
 
 [[files]]
 file = "config/openloader/resources/HiNT_YttricRevolvers/assets/yttr/lang/en_us.json"
-hash = "a0d40285bc133c5224a1da7904da8e28d423dd68bc5437d0999c460178352ff7"
+hash = "4155e022dad677230a96696ae9927f4f6e412594d7bc6a7d82c4f5f8d29e1d7f"
 
 [[files]]
 file = "config/openloader/resources/HiNT_YttricRevolvers/assets/yttr/models/item/rifle_base.json"
@@ -110,11 +110,11 @@ hash = "622bd85d9f21ab41903839c418112565118b9f406aa2882b9b95331f28a9dd3e"
 
 [[files]]
 file = "kubejs/server_scripts/noon.js"
-hash = "ffe917574335be3b9efb1d8aa2da26faf91efb5a34a30f1654e7acbf58f66253"
+hash = "2ac6e4b653d3975f5df03e8584202b1a8647e5e6fa156cf70418dd9f156dcb36"
 
 [[files]]
 file = "kubejs/server_scripts/spawn_underground.js"
-hash = "e195519d9eec8afc9ede428f8c0d820890652b6310d5fef8ad860ee5fab16fcf"
+hash = "9944d58aba47fec7529ec8e723c4d437c01adcb2f4692f3c8a3925b440cfd831"
 
 [[files]]
 file = "mods/.index/akashic-tome-of-tools-fabric.pw.toml"
