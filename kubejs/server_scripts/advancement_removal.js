@@ -26,7 +26,7 @@ function removeAdvancement(advancementFilePath) {
         })
     })
 }
-
+// removes the haema advancements because I think they're annoying, and a few book giver achievements.
 removeAdvancement([
     'haema:advancements/use_blood',
     'haema:advancements/drink_blood',

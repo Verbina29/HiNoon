@@ -3,7 +3,7 @@ Ponder.tags((event) => {
         "yttr:glowing_gas",
     ]);
 });
-
+// trying to make ponders for some of the yttr stuff, cant figure out how to animate the piston though haha
 Ponder.registry((event) => {
     event.create("yttr:glowing_gas").scene("glowdamp", "Creating glowdamp", (scene, util) => {
 				scene.world.setBlock([2, 1, 2], "minecraft:shroomlight", true);

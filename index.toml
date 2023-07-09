@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bewitchment.json"
+hash = "71c9a5def2e78086de1006de8f7a05876f6ca46e05403211d04421b601c98d38"
+
+[[files]]
 file = "config/boring_default_game_rules/config.json"
 hash = "975b8b9a3ecf569cbc956cb3832ade5bb3f919e384a23bbebb403878e39c1626"
 
@@ -18,15 +22,15 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_started.snbt"
-hash = "f7a5c208d38074a816f1523220cb6138258c797ffd29e936da851897cde06b7d"
+hash = "6c119e4bb535e0446d51d2f6ede131de727b46dcebf1501036853edb16183cc0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/information.snbt"
-hash = "dc529ae587aa9662713c26da3c4929fb8fa85200a7cb449b21d85be0966e78e8"
+hash = "90796e44e92ac8666c1a627f02c6296885ed9afc656348dc073b271da3ec6360"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "616c39297270f5a5fc396a454d08978c917b6219ff2e4939abdb81d709501db2"
+hash = "01f0f61c00ef2f5c75ef2d34cfd54198b08d079ce9fb78d71bfbc0cfa7e01556"
 
 [[files]]
 file = "config/modmenu.json"
@@ -94,15 +98,15 @@ hash = "9f19838367b3677979108826e7145b98b71962aec8ead2739339438b19e6f4c0"
 
 [[files]]
 file = "kubejs/client_scripts/yttr_ponder.js"
-hash = "497d2bdf691aeb52f3721eef51ee51491cc678bc112dd1bf95a9db39e135ebcc"
+hash = "da782d6dcb1c4ce51581a6d150e687cf4c8247d8f27424366eb268b68918ce90"
 
 [[files]]
 file = "kubejs/server_scripts/advancement_removal.js"
-hash = "0ce471762f916c56b81763a019b28cf09263864131dd79e85b339a8277d07dbf"
+hash = "b3c773bc9883da1cc9149711d2e4f9bbed692dbc370d6c1633d49010fe2e2401"
 
 [[files]]
 file = "kubejs/server_scripts/first_join.js"
-hash = "ad4b3a303f777aa49cc55f74175ba73307b2bc952495153c19589aa16d7a8814"
+hash = "622bd85d9f21ab41903839c418112565118b9f406aa2882b9b95331f28a9dd3e"
 
 [[files]]
 file = "kubejs/server_scripts/noon.js"
@@ -556,17 +560,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "6211125efff78a41dd580915f588604d810decb2a9b966bea974386e89584ffa"
+hash = "d0632f51c998e7985e04507f70736b084916f832ec91035c84fd1b6cb5356f58"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
+hash = "648e40ae6800f9d52f0904a0e26f4528aece26856fd7f6dd9f2ccdfdc2d1e2e3"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
+hash = "3077142ae39a489240a5dc894985a665eb8e967982fd56c4540657d7f2266870"
 metafile = true
 
 [[files]]
@@ -601,22 +605,17 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "87330335aae29de60f49f1938635ccf031fa775f60e0f29b42ab54ecdad28f65"
+hash = "e4822754aed7a80cad297e865b3c0dcd72ea11be2eaf3bae015cd0dd9b1e4780"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "3227281cf704b6d3dc15c636e5a77d0e480a674d2abdca7b4902dafe6366917e"
-metafile = true
-
-[[files]]
-file = "mods/galosphere.pw.toml"
-hash = "7a2eac29c0d88310487ceb0951fa6fe686a799d0e352448776e9cfffc98fa0a1"
+hash = "32b44781b2b8f70735d8b395194e80fb55d1710738c0e1ea6ebaafda30d4af5e"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "3e280da5297631391b86927fa043903eba479c42bae37a82f11878b5eddd927f"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
@@ -631,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "0b444a3ef2da27d658dbdf69ca3152eedacf899cbbdf1abd5f47064997c8aa7e"
+hash = "a2e0c19f70671901d913bf2fe3bf8996af3cf328a073fbc30a37bb08cb0e6cab"
 metafile = true
 
 [[files]]
@@ -646,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexkinetics.pw.toml"
-hash = "d1249717b5021cd819d7d93c232b6a0c3b15cd54a92f12f0432d314ea75844db"
+hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
 
 [[files]]
@@ -690,8 +689,13 @@ hash = "8697e10821db1c51bec28e20a1604d0a3272419a6280591193e869a94ba18b94"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "6c790618f61859aac4a83d26625c779c664af46a6ad9a2113a0e54be6c5afba4"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-offline.pw.toml"
-hash = "c3549839a344d4fc7485fb858012ea502f279cc3b582563b0ef45d9d089dfdef"
+hash = "2bf4230767258582d6b7f467a7771743c403922131ffa1d900f7ddfbed1de366"
 metafile = true
 
 [[files]]
@@ -742,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "86831c7192dbe4a106e1aa54ae25f33eeda42da960aff2123bf70d3b2f3afba0"
-metafile = true
-
-[[files]]
-file = "mods/miskatonic-mysteries.pw.toml"
-hash = "4fb02f187f88c7042e774630afcf19aff3d799705fd3a53d71c780fd6f8ed085"
 metafile = true
 
 [[files]]
@@ -806,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f03bf78ace9282fde5cc1ee358bb308d261c9b2dc12d431b2c58578239906859"
+hash = "f5488a43935b61661ddd24e34d00177b5e26d01fbe4472a3839780bd57bf1dac"
 metafile = true
 
 [[files]]
@@ -816,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "9659891ad7deae730164d43999716cc9f7de57393a7a7172d91d1c77347532c9"
+hash = "978df09a261175b6771fc41a1f12e9cf3b68015d128bd8a300548c5e6e6146bd"
 metafile = true
 
 [[files]]
@@ -846,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/restart-server.pw.toml"
-hash = "daf336c2a9e5808922ff7927f816e08a19d7c27968a7ae02eff17a94789ab27e"
+hash = "668719a424c1735f19192d4489e63589da2a38bcdad57baf0b58c0dd1066b91f"
 metafile = true
 
 [[files]]
@@ -896,12 +895,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b0dd7667056498ccbefb567724ddfe94aee869fcd94df16573bd3bd66ee28107"
+hash = "facf5df17667819ddaa5c29da55c5a535c3d147ad14077d02e3f358568e8613d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7d7fc463899a8b81d9f7f982b893d6814a02e9ce266c0b201dab22bdf3c6dd27"
+hash = "f05e3282a81afd20be398274c90f89f04958ccf1913249b38fdca1fd3695c8d4"
 metafile = true
 
 [[files]]
