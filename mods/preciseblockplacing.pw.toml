@@ -11,4 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3825030
 project-id = 407981
-release-channel = "beta"
