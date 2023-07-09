@@ -119,334 +119,417 @@ hash = "9944d58aba47fec7529ec8e723c4d437c01adcb2f4692f3c8a3925b440cfd831"
 [[files]]
 file = "mods/.index/akashic-tome-of-tools-fabric.pw.toml"
 hash = "7fd444735edaa13b41a13002300852354bc9a84af0f1b99189df46753a053261"
+metafile = true
 
 [[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "40c09ca18179ac80b6f546fd898111d0d092e927fea40012aa436172606c6b9a"
+metafile = true
 
 [[files]]
 file = "mods/.index/architectury-api.pw.toml"
 hash = "e1d9f52e39c65722b3a49d15ec28eea8295eed10b57d87be2c2d125e4b60fb43"
+metafile = true
 
 [[files]]
 file = "mods/.index/axolotl-bucket-fix.pw.toml"
 hash = "05808471ffb101c07888efd57733ab4c4f896db013cf50114f93064441923248"
+metafile = true
 
 [[files]]
 file = "mods/.index/badpackets.pw.toml"
 hash = "3bd0775a7eab0c694e6400edf114b9a44734bc53f868227e194067f611e9acde"
+metafile = true
 
 [[files]]
 file = "mods/.index/better-fps-render-distance-fabric.pw.toml"
 hash = "50ff2ed3d7f5f9be8907be6e10c66863f1e21ff04031532c5ec2ac1d8dc71ef2"
+metafile = true
 
 [[files]]
 file = "mods/.index/better-ping-display-fabric.pw.toml"
 hash = "a38855cfc421f868a4b897f957f12c210a8c402b7b9821e3db571a9e70904510"
+metafile = true
 
 [[files]]
 file = "mods/.index/better-spawner-control.pw.toml"
 hash = "11efe56a60f18e5b19e9e40218b676f56c40ac6c2a7894bbc880d67521c39acd"
+metafile = true
 
 [[files]]
 file = "mods/.index/better-third-person.pw.toml"
 hash = "63fe23a62099d21d1929922f9b1bcbf43e1857181272aaceb217e36858af9f14"
+metafile = true
 
 [[files]]
 file = "mods/.index/bewitchment-plus.pw.toml"
 hash = "fd81edee4b47cdcd9801f27806d7ec33eaa650fac6b7c929e089dac3b8332090"
+metafile = true
 
 [[files]]
 file = "mods/.index/bewitchment.pw.toml"
 hash = "98a4208e0fae51a771bc5be3a9e36ade499e962b2c801b544a00f9241384d1ea"
+metafile = true
 
 [[files]]
 file = "mods/.index/bookshelf.pw.toml"
 hash = "259085a4bafb886960daa6925bc79405f90caddeff3c1b7ddc41825b837d4714"
+metafile = true
 
 [[files]]
 file = "mods/.index/borderless-mining.pw.toml"
 hash = "5e69d72943f825744ea11b40baef2cedfef6bd9b4cc4a054b8c11aebd60f0f25"
+metafile = true
 
 [[files]]
 file = "mods/.index/boring-default-game-rules.pw.toml"
 hash = "4d02f3d14c209c5829e2d189c7dcfa0999cbf165f0a7631860c235e36c41d8ab"
+metafile = true
 
 [[files]]
 file = "mods/.index/botania.pw.toml"
 hash = "016b32de827d140eb6dd864cd4b1968b094b73c083859879617b8396975cd3b6"
+metafile = true
 
 [[files]]
 file = "mods/.index/capes.pw.toml"
 hash = "f0d00e2a129d062c7f172ac6201a38c2502cbb998aeefeaecb423d14b34c9cd1"
+metafile = true
 
 [[files]]
 file = "mods/.index/cardinal-components-api.pw.toml"
 hash = "d22a6a0209503f058000d34fdf1e06038d4dd7f983eee8ec635d56423c37d3a7"
+metafile = true
 
 [[files]]
 file = "mods/.index/cloth-config.pw.toml"
 hash = "0d42017a04bd5d8de6d3037efb1241dd3b1453656fd9e25a7377ce0c3b1d7da0"
+metafile = true
 
 [[files]]
 file = "mods/.index/clumps.pw.toml"
 hash = "d9696b3ccbe32a731131085d6dd53f5fa96fc601815e10f45b5430282a273e6e"
+metafile = true
 
 [[files]]
 file = "mods/.index/collective.pw.toml"
 hash = "5acee065d6c28ccda8f4938d5dd04a68ad062ac3718e66ad103667921090bad9"
+metafile = true
 
 [[files]]
 file = "mods/.index/controlling.pw.toml"
 hash = "6f7cc8c85d7d44f72c8294ac57f829458186980dbe2e300fe6d44675fabe1729"
+metafile = true
 
 [[files]]
 file = "mods/.index/create-fabric.pw.toml"
 hash = "22c0f0f10216c595367761c2a8524e8922f38946cbb5c8397b4730fa1e436a61"
+metafile = true
 
 [[files]]
 file = "mods/.index/dashloader.pw.toml"
 hash = "5d4bf3a38f4937d81f6687adb47eaf31512c1b9c4019af32af2bd8aed4e49d71"
+metafile = true
 
 [[files]]
 file = "mods/.index/entityculling.pw.toml"
 hash = "c19cb55da6bf2c25107f6d1221829212ec9b5ceec31d1e0ab9bc5bd4d83076ba"
+metafile = true
 
 [[files]]
 file = "mods/.index/ferrite-core.pw.toml"
 hash = "9e93bfaf08afac41ebb415723150e2daf2ea8125c0e3b0d9417e46302ad4a2a2"
+metafile = true
 
 [[files]]
 file = "mods/.index/figura.pw.toml"
 hash = "d2924c7cde0f120c84817f4989c8bfb93d9d9d6749b658765c052ae309bb8fda"
+metafile = true
 
 [[files]]
 file = "mods/.index/ftb-library-fabric.pw.toml"
 hash = "f00a4901ae5597c3cee8fec52137563420a9010843b61741d2fc2526940cca68"
+metafile = true
 
 [[files]]
 file = "mods/.index/ftb-quests-fabric.pw.toml"
 hash = "11ece758f5c22798d683934b5d03a2ab1b2b5e6d23511f1b7da8a2d22759f268"
+metafile = true
 
 [[files]]
 file = "mods/.index/ftb-teams-fabric.pw.toml"
 hash = "e79b675242392cc28156f4f7765e4e7908bb31b55c19b4abdbb70f47e39eb0a1"
+metafile = true
 
 [[files]]
 file = "mods/.index/geckolib.pw.toml"
 hash = "0702077652d48238094c6c28add03184483295d2f39cb8dffe61e55430fdc8d8"
+metafile = true
 
 [[files]]
 file = "mods/.index/haema.pw.toml"
 hash = "987fd606d288d979913845e6f5cc223c769de75a757a42b0de0b498fca2c8fc2"
+metafile = true
 
 [[files]]
 file = "mods/.index/hex-casting.pw.toml"
 hash = "247afa3c8b740d5dfd3239cb1e469da9ec2a8854ab211d875198f86abc4ee176"
+metafile = true
 
 [[files]]
 file = "mods/.index/hexal.pw.toml"
 hash = "282fe210bb1bc102b8fab9c0d58dd3b846aecab1827baff6696156e2fa97eb7f"
+metafile = true
 
 [[files]]
 file = "mods/.index/hexbound.pw.toml"
 hash = "39081ea05b025866b19b588b6d8a8fbf8fc3298a1052c641383bd8bd49feb277"
+metafile = true
 
 [[files]]
 file = "mods/.index/i-know-what-im-doing.pw.toml"
 hash = "141a62a3917d7f4bfcda2cf261baea4d6977d8a1b382e33a3cbba6acbc118cc6"
+metafile = true
 
 [[files]]
 file = "mods/.index/indium.pw.toml"
 hash = "c22cdc80275a728a443d6539bb72d1bcdfe7a7f3a418076a4d0fc0b20b975419"
+metafile = true
 
 [[files]]
 file = "mods/.index/inventory-hud-forge.pw.toml"
 hash = "ee4aec545010f905b3073879a744eeec5994cae62f7d0b0d785299d5184e5804"
+metafile = true
 
 [[files]]
 file = "mods/.index/iris.pw.toml"
 hash = "2e4a535e8eddc721a6e27636b7ed9c811022ee8937585f27a781ef2efd6a750f"
+metafile = true
 
 [[files]]
 file = "mods/.index/item-filters.pw.toml"
 hash = "6e4bd3703cdc310570fa90d1fa91d507e12f4bba8a3b6abfd6ff5fad87ca345f"
+metafile = true
 
 [[files]]
 file = "mods/.index/jade.pw.toml"
 hash = "191590419198ad4294969e8e8a5eaeb672d21b0d7af392d00d67d7185137e301"
+metafile = true
 
 [[files]]
 file = "mods/.index/jline-for-minecraft-dedicated-server.pw.toml"
 hash = "e25486241f2978476690330943d740eaf733b6946d0c7987620441fbee83fbb9"
+metafile = true
 
 [[files]]
 file = "mods/.index/kettle.pw.toml"
 hash = "6cc5375dd42e85deb55ed6c7e773a70d7ee43ce3efa192b892a73d94069d1492"
+metafile = true
 
 [[files]]
 file = "mods/.index/krypton.pw.toml"
 hash = "9f71b685e4093a6986f36f435cac61c1ec33af1faafad37484365caf25fa495f"
+metafile = true
 
 [[files]]
 file = "mods/.index/kubejs-offline.pw.toml"
 hash = "98b62b1554fe1924df93e5675096b27c569f9943e10d1c3556ade4bc43f718ac"
+metafile = true
 
 [[files]]
 file = "mods/.index/kubejs.pw.toml"
 hash = "2b2dd4e5136274ada5d9e870e13ef55a41655e525b211ddaebc95df4625c52ea"
+metafile = true
 
 [[files]]
 file = "mods/.index/lazydfu.pw.toml"
 hash = "10c39cc46157277e52bcc66053e0d5999a367ab466cc7969afe303ea2224a7a9"
+metafile = true
 
 [[files]]
 file = "mods/.index/light-overlay.pw.toml"
 hash = "23295552dc9bd0f9d69bcea4637a18eb5965cbc77a165bc20ec55773035c6fc5"
+metafile = true
 
 [[files]]
 file = "mods/.index/litematica.pw.toml"
 hash = "5c620836cf6f964b18e6dea56f97e8ded54d9d209720d4c2168b6e32b8712da5"
+metafile = true
 
 [[files]]
 file = "mods/.index/lithium.pw.toml"
 hash = "a968f9121d81c23cc8b0c0f156a2edc4962f5679de4b54abf0a8fe27c571fe82"
+metafile = true
 
 [[files]]
 file = "mods/.index/lootjs.pw.toml"
 hash = "7ac3ec2c275af9ab59cc3b511d3906e5545b36e91ecb7d84f1d5c2ce4df493e1"
+metafile = true
 
 [[files]]
 file = "mods/.index/malilib.pw.toml"
 hash = "4d8fd403633adf6c246b8a2bc217a12617a630466e5f11d94ddba6b018c3affe"
+metafile = true
 
 [[files]]
 file = "mods/.index/malum-quilt.pw.toml"
 hash = "d881c0951c0592d510e2556fb6f7d402bf44b4d5978339a37594a02360bd7a35"
+metafile = true
 
 [[files]]
 file = "mods/.index/minihud.pw.toml"
 hash = "9629a778c873f28cc56d5747d1f90ea9ce9e19f7f8eabcadcec7d8796ed37b31"
+metafile = true
 
 [[files]]
 file = "mods/.index/mixintrace.pw.toml"
 hash = "02383aa717c5ec874da5f87f91185fa9f732a6f64302885a6ce57f599195edec"
+metafile = true
 
 [[files]]
 file = "mods/.index/modmenu.pw.toml"
 hash = "2003500ed7a3457cecc0564320da25003919dc071f71987c24fc791f44332f94"
+metafile = true
 
 [[files]]
 file = "mods/.index/moreiotas.pw.toml"
 hash = "df626acd5c0d97c0747844a29bd59528097b5404f58fe71381c6127dfccc7703"
+metafile = true
 
 [[files]]
 file = "mods/.index/mouse-tweaks.pw.toml"
 hash = "dad7eec39b8aa37d93ec5f52409bdf2151cb77c56cb378512287749c922eaafa"
+metafile = true
 
 [[files]]
 file = "mods/.index/mouse-wheelie.pw.toml"
 hash = "db98928d49fae32dce6effe0731462801952fd5a1c5cefc4bb6ef82e5bbcf122"
+metafile = true
 
 [[files]]
 file = "mods/.index/no-chat-reports.pw.toml"
 hash = "982253dc1efcc8a974b60d8fb6c8203f4d6cdce6fe0faba4fcf60494c26f0610"
+metafile = true
 
 [[files]]
 file = "mods/.index/nox.pw.toml"
 hash = "7ad95ac7894bde221a2bfca12bbc227f3a994cdc0586223b8026cd13665e2f59"
+metafile = true
 
 [[files]]
 file = "mods/.index/ok-zoomer.pw.toml"
 hash = "6de3179e1cc751095a7df5fd5579055e19e02230f2542122e725a268f15208a7"
+metafile = true
 
 [[files]]
 file = "mods/.index/patchouli.pw.toml"
 hash = "ebc16d380fe2b6e887203486e93d435a6f01f4665d955ac361066a18e5b37ce8"
+metafile = true
 
 [[files]]
 file = "mods/.index/paucal.pw.toml"
 hash = "f51ba74c3b2bd7a74ec2f4ffa9151ca0413fd8f05cf9c94d40eaaa96e62341f7"
+metafile = true
 
 [[files]]
 file = "mods/.index/pehkui.pw.toml"
 hash = "18abfc69d982d4f4e8618e2a5fa8900765f0b30cbb2e883049cf34f65f74f466"
+metafile = true
 
 [[files]]
 file = "mods/.index/ponder.pw.toml"
 hash = "369ed8224776289dc1f266224a8411a1aca3dfa1038c749b2218285bd39d5228"
+metafile = true
 
 [[files]]
 file = "mods/.index/preciseblockplacing.pw.toml"
 hash = "c9359d2d7908df141672bbea2d09681c9292c6f226edeb52cf7df958a6bb70db"
+metafile = true
 
 [[files]]
 file = "mods/.index/qkl.pw.toml"
 hash = "8b397d06fd6575b8e44c720cab46613ae1e7ab054f1a335cd4fe3bcc57d53ac0"
+metafile = true
 
 [[files]]
 file = "mods/.index/qsl.pw.toml"
 hash = "7037cd78eb55c83e83fafeb0d320c7b663454323746e4b6f30325b3ab015e3ed"
+metafile = true
 
 [[files]]
 file = "mods/.index/reacharound.pw.toml"
 hash = "9edb04da7275a9ae119fd1868ae704ee284c94530f878fc393c064c1b869f4da"
+metafile = true
 
 [[files]]
 file = "mods/.index/restart-server.pw.toml"
 hash = "e7c79f00c2c8142d7ec597167586832a632c2a5cd1cab261ac988fa0096868a6"
+metafile = true
 
 [[files]]
 file = "mods/.index/rhino.pw.toml"
 hash = "316c0a0356ea5a5de50e034bf69ad5cc8444a2e1723873f71bfc9165d50f8060"
+metafile = true
 
 [[files]]
 file = "mods/.index/roughly-enough-items.pw.toml"
 hash = "4b60a390b874cd100e747c2e84ea1854cd7ef938d161fed6a5107953af35663b"
+metafile = true
 
 [[files]]
 file = "mods/.index/smoothboot-fabric.pw.toml"
 hash = "42018fc0178045df64d4c217a5c2a2df7724499a3c932c1263eefc24feb70efa"
+metafile = true
 
 [[files]]
 file = "mods/.index/sodium-shadowy-path-blocks.pw.toml"
 hash = "0184210d6c54eb4379582c18ebe4df679969ccd8862bcb16c19ed9a3b44ea8d2"
+metafile = true
 
 [[files]]
 file = "mods/.index/sodium.pw.toml"
 hash = "805618a13f8bd42633fca47204d2c289db33c998e66ff39dd42b75ef21a171d9"
+metafile = true
 
 [[files]]
 file = "mods/.index/spark.pw.toml"
 hash = "150f25f17bd192c64e41f09ef25a9c3a5231d500c37222e7ab1ec1fd3d094af4"
+metafile = true
 
 [[files]]
 file = "mods/.index/starlight.pw.toml"
 hash = "db0c9b41eb90883c8b2ff91a1bfe16c404e3ef513a83b3d62522c4fcdb695dbe"
+metafile = true
 
 [[files]]
 file = "mods/.index/tool-stats.pw.toml"
 hash = "2a71d17bb55dbc999e5b0c489a20f540558807a3e6734b17157fb361c480857c"
+metafile = true
 
 [[files]]
 file = "mods/.index/trinkets.pw.toml"
 hash = "083444f64a617fd971025b7425c9d7fee0cc6460ceddabf29be9fc24a459501a"
+metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-minimap.pw.toml"
 hash = "1079c05ccf4cd8b1a060fd87b360c80a2622920e371fd2054b2cc381fd37347e"
+metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-world-map.pw.toml"
 hash = "755f8f778fe5a39eda7b75755fdf75eaa5b27a23b45a6c34d6fd8f225ea5fd87"
+metafile = true
 
 [[files]]
 file = "mods/.index/your-reputation.pw.toml"
 hash = "0e1fff50201a5350bb0006296c5d68de2eb751f317899148e65690a52fa34025"
+metafile = true
 
 [[files]]
 file = "mods/.index/yttr.pw.toml"
 hash = "f4f8e3f068904dadf9cf4461f75071cac6c4dadb16a917d86730d6823d9b82d1"
+metafile = true
 
 [[files]]
 file = "mods/akashic-tome-of-tools-fabric.pw.toml"
