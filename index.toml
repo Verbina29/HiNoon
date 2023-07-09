@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/jline-for-minecraft-dedicated-server.pw.toml"
-hash = "89d2a01ff5ab96d19b027523dd679584e9e00759a1d88a2fb4a0c12f0e7b0a96"
+hash = "04f023f89338ac2499d3aee996d258a7116850e902efe50b7c20ba91d10da41b"
 metafile = true
 
 [[files]]
