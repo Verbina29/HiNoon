@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "2f02b246e2ca98407a4a6fa877ea8962c4f1c3fbf4989fdb6e1f5c81661ff83e"
+
+[[files]]
 file = "config/bewitchment.json"
 hash = "71c9a5def2e78086de1006de8f7a05876f6ca46e05403211d04421b601c98d38"
 
@@ -729,11 +733,6 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
-file = "mods/malum-quilt-b1.1.4.pw.toml"
-hash = "e6d051df0809326863d564e3fde5b776610bf7b3f35fd8c6373eb766b41010f6"
-metafile = true
-
-[[files]]
 file = "mods/malum-quilt.pw.toml"
 hash = "4414a7bdb83f3f1bc313baf0b1893bf0ec716e2efdf738e4b9977b7ed792b993"
 metafile = true
@@ -779,11 +778,6 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
-file = "mods/nox-a-mob-and-difficulty-overhaul.pw.toml"
-hash = "1100c903012a6de7a66def3112704e3bf27f1ef936321ed774a2abd9322676c1"
-metafile = true
-
-[[files]]
 file = "mods/nox.pw.toml"
 hash = "dfb57f884376a6e087b1a389a71f8c6b5cce32aa2916234a8010044d5c3592a6"
 metafile = true
@@ -796,11 +790,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "7e7a9fc6a8457d8b2c1ed8332cec6dadba305a25191a5aa0cb34ddd1623c8f72"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "f9bc080aad93ff0b59c09ae094a6c38a3cf41b08118e76e29ec4c0dd2b98244f"
 metafile = true
 
 [[files]]
@@ -861,11 +850,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f7957b69872ee26bdaa1a9db1f880c4d65eefde73ec291f30c0765fe6198b808"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot.pw.toml"
-hash = "f3915cc7800b77ee003b10629906255e62cf065cfd3559e0129698e4f8ce6d11"
 metafile = true
 
 [[files]]
