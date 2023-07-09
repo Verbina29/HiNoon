@@ -639,11 +639,6 @@ hash = "211b3c95418b3920d82aab487ea9a2c6b361bf0a870926e1794f8d4c19278a99"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "54f50aa59e9118af2ea19bd461aa546bdfc5ef85d9fbae718cc8c05bc6bfcd45"
-metafile = true
-
-[[files]]
 file = "mods/hexkinetics.pw.toml"
 hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
