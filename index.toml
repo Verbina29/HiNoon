@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "2f02b246e2ca98407a4a6fa877ea8962c4f1c3fbf4989fdb6e1f5c81661ff83e"
-
-[[files]]
 file = "config/bewitchment.json"
 hash = "71c9a5def2e78086de1006de8f7a05876f6ca46e05403211d04421b601c98d38"
 
