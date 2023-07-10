@@ -614,6 +614,11 @@ hash = "32b44781b2b8f70735d8b395194e80fb55d1710738c0e1ea6ebaafda30d4af5e"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "4fd283d098a43db1e66ac465508700a722866c6d1f5afcdcc047fb87f6aabb26"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
@@ -844,6 +849,11 @@ hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b19fe12d9c3f4fd99e3e3ed320f84ca8bd01920fded22fc721345821f96dc63d"
+metafile = true
+
+[[files]]
 file = "mods/restart-server.pw.toml"
 hash = "668719a424c1735f19192d4489e63589da2a38bcdad57baf0b58c0dd1066b91f"
 metafile = true
@@ -881,6 +891,16 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "0c1c10bfc9e856e1effbe4324c74c1e26ce35094813d75c3811e5fe7d22a1b19"
 metafile = true
 
 [[files]]
