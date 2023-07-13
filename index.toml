@@ -549,6 +549,11 @@ hash = "876d17f4876e661e9a962750e2c140e377ebd56b1fccb65fecd2ee15cab2a630"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -851,6 +856,11 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
