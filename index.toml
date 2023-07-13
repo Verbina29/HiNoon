@@ -459,6 +459,11 @@ hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "1a13f98cc2c94e4fd7993c731fb98aeb276c4a48bf41aeb023b806324ac5715f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
@@ -791,6 +796,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "7e7a9fc6a8457d8b2c1ed8332cec6dadba305a25191a5aa0cb34ddd1623c8f72"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
