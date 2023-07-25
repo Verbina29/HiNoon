@@ -1,13 +1,13 @@
 name = "LootJS: KubeJS Addon"
-filename = "lootjs-fabric-1.19.2-2.8.0.jar"
+filename = "lootjs-fabric-1.19.2-2.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fJFETWDN/versions/TBtmuPUD/lootjs-fabric-1.19.2-2.8.0.jar"
+url = "https://cdn.modrinth.com/data/fJFETWDN/versions/7sHZinNx/lootjs-fabric-1.19.2-2.9.0.jar"
 hash-format = "sha1"
-hash = "161c61b8ae3e6fea79eb348607f638821a345aa9"
+hash = "ccbddcfb4e36d7078434d22942a12aa142a8a426"
 
 [update]
 [update.modrinth]
 mod-id = "fJFETWDN"
-version = "TBtmuPUD"
+version = "7sHZinNx"
