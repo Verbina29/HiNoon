@@ -1,14 +1,13 @@
 name = "Tool Stats"
 filename = "ToolStats-Fabric-1.19.2-12.1.4.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/vuGFx44e/versions/PCVdGhL3/ToolStats-Fabric-1.19.2-12.1.4.jar"
 hash-format = "sha1"
 hash = "31359b1cf674bbc0dc2aca9fc1c066ae307f4c18"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4584153
-project-id = 377109
-release-channel = "beta"
+[update.modrinth]
+mod-id = "vuGFx44e"
+version = "PCVdGhL3"

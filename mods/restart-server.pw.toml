@@ -1,17 +1,13 @@
-name = "Restart Server (Fabric/Quilt)"
+name = "Restart Server"
 filename = "restart-server-1.2.0+mc1.19.x-1.20.x.jar"
-side = "both"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/zG0Bb7gw/versions/btjA8TpA/restart-server-1.2.0%2Bmc1.19.x-1.20.x.jar"
 hash-format = "sha1"
 hash = "1f350c946a9aae5cca798601f69d940e666fa3ed"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4614407
-project-id = 677580
-release-channel = "beta"
-
-[option]
-optional = true
+[update.modrinth]
+mod-id = "zG0Bb7gw"
+version = "btjA8TpA"

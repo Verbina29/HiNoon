@@ -1,14 +1,13 @@
-name = "KubeJS Offline Documentation"
+name = "KubeJS Offline"
 filename = "kubejsoffline-2.1.6.jar"
-side = "both"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/7I1fu1km/versions/eVOMTRLS/kubejsoffline-2.1.6.jar"
 hash-format = "sha1"
 hash = "bd74455d4949ec73f3e2c6c9a7f77f515b1dc660"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4597673
-project-id = 641627
-release-channel = "beta"
+[update.modrinth]
+mod-id = "7I1fu1km"
+version = "eVOMTRLS"
