@@ -17,6 +17,10 @@ file = "config/charm.toml"
 hash = "2cfd09f3464bc14cd47fe754c8cc565452188f577ee852c2d5255feadd1f0ddb"
 
 [[files]]
+file = "config/emi.css"
+hash = "bb4692eac2bda86b4eeb09a7e14bccf68bf7b15038136e9befcccaed88f0ea23"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
