@@ -609,6 +609,11 @@ hash = "7efcfe805330bdc84ece584cbf18e6fffbcc5fa95fb588bddb8ca111d7275e69"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "12d45fd4c264c6b624e6b9a60a7ec4040e294498eb32998bc401d406d2617b07"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "b626e93c480b5d6c791461cfee2dae3516e0de699b81255d3aace0ae3a01dcce"
 metafile = true
@@ -621,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
 hash = "32b44781b2b8f70735d8b395194e80fb55d1710738c0e1ea6ebaafda30d4af5e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "f93d5566fdc64e37155f2edab0c5e7147e133b2de1af20c4954c25c2c46203fe"
 metafile = true
 
 [[files]]
