@@ -864,11 +864,6 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
-file = "mods/restart-server.pw.toml"
-hash = "65660f3f2941f9a62273665ee083c7ef58c1da1e12054480635cf26b4b6108a2"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "f7957b69872ee26bdaa1a9db1f880c4d65eefde73ec291f30c0765fe6198b808"
 metafile = true
