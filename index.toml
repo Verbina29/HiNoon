@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bewitchment.json"
-hash = "71c9a5def2e78086de1006de8f7a05876f6ca46e05403211d04421b601c98d38"
+hash = "4a494280419599e8bdfb19dd7e06dc84056432d5e2f59ae744ab439c2508d413"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
