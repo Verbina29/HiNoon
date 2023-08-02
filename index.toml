@@ -843,6 +843,11 @@ hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
+file = "mods/pipeblocker.pw.toml"
+hash = "a3477edc8d253375f2065dabe0df9a59e962a9b7595fd21765a36612973e188b"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
