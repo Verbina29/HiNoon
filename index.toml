@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/pipeblocker.pw.toml"
-hash = "a3477edc8d253375f2065dabe0df9a59e962a9b7595fd21765a36612973e188b"
+hash = "2ee13d7304bad8f5631fc9870dd86fc4b8847ba8bb4a10ea30de6083f8c919bd"
 metafile = true
 
 [[files]]
